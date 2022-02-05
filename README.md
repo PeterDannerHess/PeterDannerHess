@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PeterDannerHess
-- 👀 I’m interested in data, in science, and most importantly, in data science.
+- 👀 I’m interested in science, music, math, philosophy, and data.
 - 🌱 I’m currently learning data science, including Python and machine learning.
-- 💞️ I’m looking to collaborate on data science.
+- 💞️ I’m looking to collaborate on data science and machince learning.
 - 📫 You can reach me most easily through my email, at askldjj@gmail.com
 
 <!---
